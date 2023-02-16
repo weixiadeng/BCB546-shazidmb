@@ -1,8 +1,8 @@
 #!/bin/bash
 #SBATCH --nodes=1
 #SBATCH --cpus-per-task=8
-#SBATCH --time=3:00:00
-#SBATCH --mail-user=<netID>@iastate.edu
+#SBATCH --time=2:00:00
+#SBATCH --mail-user=shazid@iastate.edu
 #SBATCH --mail-type=begin
 #SBATCH --mail-type=end
 #SBATCH --error=blastn1.%J.err
