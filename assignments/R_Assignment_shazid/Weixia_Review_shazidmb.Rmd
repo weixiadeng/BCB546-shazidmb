@@ -1,0 +1,13 @@
+---
+title: "Weixia_Review"
+author: "Weixia Deng"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Data inspection and visulaization looks perfect. And frankly speaking, some for your code inspires me and helps me to imporve my work.
+
+But one thing I am not sure is for the missing data in output files, should we still use `-/-` and `?/?` or just a single `-` and `?` (as you did). The homework description is not very clear.
